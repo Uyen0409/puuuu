@@ -15,5 +15,5 @@ const CONFIG = {
             'Lớn lên lại muốn thu này with😘 ',
     mess: 'E biết ngay mà 🥰. Yêu a lắm lun 😘😘',
     btnAccept: 'Quá là sến lun <3',
-    messLink: 'https://www.facebook.com/uyenlun0409' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/uyenlun0409' 
 }
